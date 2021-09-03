@@ -1,4 +1,4 @@
-# journalapp2
+# JournalApp
 
 ## Project setup
 ```
